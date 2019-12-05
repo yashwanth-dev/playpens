@@ -1,0 +1,38 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+.top-item {
+  height: 100vh;
+  background: gray;
+  text-align: center;
+}
+.bottom-item {
+  height: 100vh;
+  background: gray;
+  text-align: center;
+}
+.container {
+  text-align: center;
+  background: blueviolet;
+}
+.features-container {
+  display: flex;
+  justify-content: space-around;
+}
+.features-list {
+  position: sticky;
+  top: 10px;
+  height: 300px;
+}
+.feature-list-item {
+}
+.features-illustration-list {
+}
+.features-illustration-list img {
+  height: 80vh;
+}

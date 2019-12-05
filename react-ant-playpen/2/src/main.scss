@@ -1,0 +1,26 @@
+@import "~antd/dist/antd.css";
+
+.seed {
+  background-color: aqua;
+}
+
+.SA {
+  background-color: blue;
+}
+.SB {
+  background-color: red;
+}
+.SC {
+  background-color: green;
+}
+.other-share-class {
+  background-color: indianred;
+}
+.shareClass {
+  border: 1px solid black;
+  border-radius: 2px;
+  display: inline;
+  margin-right: 2px;
+  padding: 2px;
+  color: white;
+}
